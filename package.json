@@ -1,0 +1,13 @@
+{
+  "name": "my-first-node-proj",
+  "version": "1.0.0",
+  "description": "This is my first node project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "cal": "echo 'Cal Clemmer'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
